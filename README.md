@@ -1,1 +1,2 @@
-# A-RF-PCA-in-IDS-using-ML
+Install the packages
+Run the Code intrusion.py 
